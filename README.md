@@ -37,6 +37,9 @@ Table Connection: Established relationships between tables using the common colu
 
 - Bar Graph: Depicts the distribution of government forms worldwide, highlighting "Republic" as the most common form and "Dependent Territory of UK" as the least common.
 
+
+![image](https://github.com/sharmiladulmi/World_Dataset_with-Power-BI/assets/75578997/3694ab0d-f38b-439e-9a7f-7d517ae2475e)
+
 ### Conclusion:
 
 The Power BI analysis of the world dataset provides valuable insights into global demographics, linguistic diversity, and governmental structures. Through visualizations such as charts and diagrams, stakeholders can gain a comprehensive understanding of worldwide trends and patterns, enabling informed decision-making and strategic planning.
