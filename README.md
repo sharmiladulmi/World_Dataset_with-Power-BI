@@ -3,6 +3,10 @@
 ### Introduction:
 In this report, I analyze a comprehensive world dataset comprising three tables: City, Country, and Country Language. Utilizing Power BI, I import the data from a MySQL database, create a data model highlighting inter-table relationships, perform data transformations, and generate visualizations to derive meaningful insights.
 
+![image](https://github.com/sharmiladulmi/World_Dataset_with-Power-BI/assets/75578997/d84a4713-2b57-40a6-8926-a2ff8e5af03d)
+
+
+
 ### Data Import and Modeling:
 
 Data Import: Imported data from MySQL database consisting of City, Country, and Country Language tables.
